@@ -1,0 +1,5 @@
+pyvenv.cfg
+secret_key.txt
+.idea
+Lib/
+Scripts/
